@@ -23,5 +23,11 @@
 
 11 push: git push origin master
 
+----------------------------------------------------
+recuperation:
+
+git pull origin branch/master
+
+-----------------------------------------------------
 
  
